@@ -8,3 +8,7 @@
 
 2. Слияние веток
 *   *git merge NAME_BRANCH* - сливаем ветку NAME_BRANCH в текущую
+
+3. Конфликты
+* Fast-forward
+* Auto-merge ORT
