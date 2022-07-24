@@ -5,3 +5,6 @@
 *   *git branch* - просмотр всех веток
 *   *git branch NAME_BRANCH* - создание ветки NAME_BRANCH
 *   *git checkout NAME_BRANCH* - переключиться на ветку NAME_BRANCH
+
+2. Слияние веток
+*   *git merge NAME_BRANCH* - сливаем ветку NAME_BRANCH в текущую
